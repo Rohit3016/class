@@ -1,0 +1,12 @@
+.contactBack{
+background-image: url('../Images/contact-background.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
+
+.register{
+    background-image:url('../Images/contact-form-background-2.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

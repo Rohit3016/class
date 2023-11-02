@@ -1,0 +1,34 @@
+
+[
+    {
+        "id":1,
+        "name":"Delhi",
+        "city":"images/Delhi1.jpeg"
+    },
+    {
+        "id":2,
+        "name":"Mumbai",
+        "city":"images/mumbai1.jpg"
+    },
+    {
+        "id":3,
+        "name":"Pune",
+        "city":"images/pune1.jpg"
+    },
+    {
+        "id":4,
+        "name":"Hydrabad",
+        "city":"images/Hydrabad1.jpeg"
+    },
+    {
+        "id":5,
+        "name":"Kolkata",
+        "city":"images/kolkata1.jpg"
+    },
+    {
+        "id":6,
+        "name":"Bangaluru",
+        "city":"images/Bangaluru1.jpg"
+    }
+   
+]
